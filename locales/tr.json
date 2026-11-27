@@ -1,0 +1,230 @@
+{
+  "label": "TR • Türkçe",
+  "ui": {
+    "nav": [
+      "Namaz Vakitleri",
+      "Kur'an-ı Kerim",
+      "Hadis Kitaplığı",
+      "Dini Günler",
+      "Namaz Rehberi",
+      "Tesbihat",
+      "Hakkında"
+    ],
+    "city_ph": "Şehir (Örn: Sungurlu)",
+    "country_ph": "Ülke (Örn: Turkey)",
+    "upd_btn": "Konumu Güncelle",
+    "next_fmt": "{city} • {prayer} vaktine kalan süre:",
+    "wait_next": "{city} • Yarınki İmsak bekleniyor",
+    "err_time": "Vakitler hesaplanamadı",
+    "prayers": [
+      "İmsak",
+      "Güneş",
+      "Öğle",
+      "İkindi",
+      "Akşam",
+      "Yatsı"
+    ],
+    "surah_ph": "Sure ara...",
+    "play": "▶ Dinle",
+    "pause": "⏸ Duraklat",
+    "resume": "▶ Devam Et",
+    "hadith_ph": "Hadislerde konu veya kelime ara...",
+    "no_hadith": "Aramanızla eşleşen hadis bulunamadı.",
+    "source": "Kaynak",
+    "days_left": "({d} gün kaldı)",
+    "today": "(Bugün)",
+    "passed": "(Geçti)",
+    "theme_lbl": "Tema:",
+    "themes": [
+      "Oto",
+      "Açık",
+      "Koyu"
+    ],
+    "lang_lbl": "Dil:",
+    "font_lbl": "Yazı:",
+    "notif_lbl": "Bildirim:",
+    "on": "Açık",
+    "off": "Kapalı",
+    "tray_show": "Göster / Gizle",
+    "tray_quit": "Çıkış",
+    "tray_stop": "🔇 Sesi Durdur",
+    "notif_title": "Sirat • Vakit Girdi",
+    "notif_body": "{city} için {prayer} vakti girdi ({time}).",
+    "tray_bg": "Sirat arka planda çalışmaya devam ediyor.",
+    "test_btn": "▶ Dene",
+    "test_off": "Bildirimler kapalı. Test sesi için önce bildirimleri açın.",
+    "sounds": [
+      "🔔 Klasik Çan",
+      "🕌 Derin Gong",
+      "✨ Kristal Zil",
+      "🎶 Huzurlu Melodi"
+    ],
+    "dhikr_tap": "📿  Zikir Çek  (+1)",
+    "dhikr_rst": "Sıfırla",
+    "dhikr_stat": "Hedef: {cur} / {tgt}   •   Toplam Zikir: {tot}"
+  },
+  "calendar": [
+    [
+      "Pazartesi",
+      "Salı",
+      "Çarşamba",
+      "Perşembe",
+      "Cuma",
+      "Cumartesi",
+      "Pazar"
+    ],
+    [
+      "Ocak",
+      "Şubat",
+      "Mart",
+      "Nisan",
+      "Mayıs",
+      "Haziran",
+      "Temmuz",
+      "Ağustos",
+      "Eylül",
+      "Ekim",
+      "Kasım",
+      "Aralık"
+    ],
+    "DİYANET TAKVİM YAPRAĞI",
+    "📖 Günün Ayeti",
+    "📜 Günün Hadisi",
+    "Yılın {d}. Günü",
+    "ltr"
+  ],
+  "days": [
+    [
+      "2026-12-10",
+      "Üç Ayların Başlangıcı (1 Recep)",
+      "<h3>Üç Ayların Başlangıcı</h3><p>Recep, Şaban ve Ramazan aylarını kapsayan manevi arınma mevsimidir.</p><ul><li>Kaza ve nafile namazlar kılmak</li><li>Kur'an tilavetini artırmak</li><li>Pazartesi ve Perşembe oruç tutmak</li></ul>"
+    ],
+    [
+      "2026-12-17",
+      "Regaip Kandili",
+      "<h3>Regaip Kandili</h3><p>Recep ayının ilk Cuma gecesidir; rahmet ve bereket gecesidir.</p><ul><li>Teheccüd ve tesbih namazı kılmak</li><li>Tövbe, istiğfar ve sadaka vermek</li></ul>"
+    ],
+    [
+      "2027-01-05",
+      "Miraç Kandili",
+      "<h3>Miraç Kandili</h3><p>Beş vakit namazın farz kılındığı mübarek gecedir.</p><ul><li>Beş vakit namazı huşu ile kılmak</li><li>Bakara Suresi son iki ayetini okumak</li></ul>"
+    ],
+    [
+      "2027-01-24",
+      "Berat Kandili",
+      "<h3>Berat Kandili</h3><p>Şaban ayının 15. gecesi, günahlardan arınma ve af gecesidir.</p><ul><li>Geceyi ibadetle ihya etmek</li><li>Ertesi gün nafile oruç tutmak</li></ul>"
+    ],
+    [
+      "2027-02-08",
+      "Ramazan-ı Şerif Başlangıcı",
+      "<h3>Ramazan Ayı</h3><p>Oruç, teravih ve Kur'an ayıdır.</p><ul><li>Oruç tutmak ve teravih kılmak</li><li>Fitre ve zekat vermek</li></ul>"
+    ],
+    [
+      "2027-03-05",
+      "Kadir Gecesi",
+      "<h3>Kadir Gecesi</h3><p>Bin aydan daha hayırlı olduğu müjdelenen gecedir.</p><ul><li>Kur'an okuyup dua etmek</li></ul>"
+    ],
+    [
+      "2027-03-09",
+      "Ramazan Bayramı (3 Gün)",
+      "<h3>Ramazan Bayramı</h3><p>Bayram namazı, fitre sadakası ve akraba ziyareti günleridir.</p>"
+    ],
+    [
+      "2027-05-15",
+      "Kurban Bayramı Arifesi",
+      "<h3>Kurban Bayramı Arifesi</h3><p>Arafat günü orucu ve sabah namazından itibaren Teşrik Tekbirleri başlar.</p>"
+    ],
+    [
+      "2027-05-16",
+      "Kurban Bayramı (4 Gün)",
+      "<h3>Kurban Bayramı</h3><p>Bayram namazı, kurban ibadeti ve paylaşma günleridir.</p>"
+    ],
+    [
+      "2027-06-06",
+      "Hicri Yılbaşı (1 Muharrem)",
+      "<h3>Hicri Yılbaşı 1449</h3><p>Muharrem ayında nafile oruç tutmak ve dua etmek faziletlidir.</p>"
+    ],
+    [
+      "2027-06-15",
+      "Aşure Günü (10 Muharrem)",
+      "<h3>Aşure Günü</h3><p>Muharrem ayının 9-10 veya 10-11. günleri oruç tutmak ve ikramda bulunmak sünnettir.</p>"
+    ],
+    [
+      "2027-08-14",
+      "Mevlid Kandili",
+      "<h3>Mevlid Kandili</h3><p>Peygamber Efendimiz'e (s.a.v.) bolca salavat getirmek ve Siyer okumak tavsiye edilir.</p>"
+    ]
+  ],
+  "dhikr": [
+    "+ Ekle",
+    "Okunuş:",
+    "Meal:",
+    "Aşama {s} ({r})",
+    "Özel Zikir Ekle",
+    "Zikir Adı *:",
+    "Arapça:",
+    "Okunuş:",
+    "Meal:",
+    "Hedef:",
+    "Kaydet",
+    "İptal",
+    [
+      "Namaz Tesbihatı (33×3)",
+      "Sübhanallahi ve bihamdihi",
+      "Estağfirullah el-Azîm",
+      "Salavat-ı Şerife",
+      "Kelime-i Tevhid",
+      "Kelime-i Temcid",
+      "Hasbünallahu ve ni'mel vekîl",
+      "Bâkıyât-ı Sâlihât",
+      "Hz. Yunus Duası"
+    ],
+    [
+      "Allah'ı tüm noksanlıklardan tenzih ederim.",
+      "Hamd yalnız Allah'a mahsustur.",
+      "Allah en büyüktür.",
+      "Allah'ı hamd ile tüm noksanlıklardan tenzih ederim.",
+      "Yüce Allah'tan bağışlanma dilerim.",
+      "Allah'ım! Efendimiz Muhammed'e salât ve selâm eyle.",
+      "Allah'tan başka ilah yoktur, Muhammed Allah'ın elçisidir.",
+      "Güç ve kuvvet yalnızca yüce Allah'ın yardımıyladır.",
+      "Allah bize yeter, O ne güzel vekildir.",
+      "Allah münezzehtir, hamd Allah'adır, O'ndan başka ilah yoktur ve O en büyüktür.",
+      "Senden başka ilah yoktur. Seni tenzih ederim. Gerçekten ben zalimlerden oldum."
+    ]
+  ],
+  "guide": [
+    [
+      "1. Erkekler İçin Namaz Rükünleri",
+      "<h3>Erkeklerde Namazın Kılınışı ve Rükünleri</h3><div style='margin:12px 0; text-align:center;'><img src='__MIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Niyet ve İftitah Tekbiri:</b> Kıbleye dönülür, niyet edilir. Başparmaklar kulak yumuşağı hizasına gelecek şekilde eller kaldırılarak 'Allahu Ekber' denir.</li><li><b>Kıyam:</b> Sağ elin baş ve serçe parmakları sol el bileğini kavrar, eller göbek altında bağlanır. Sübhaneke, Fâtiha ve zamm-ı sure okunur.</li><li><b>Rükû:</b> 'Allahu Ekber' diyerek sırt tam düz (90 derece) olacak şekilde eğilinir, dizler kavranır ve 3 kez 'Sübhâne Rabbiye'l-Azîm' denir.</li><li><b>Secde:</b> Dirsekler yerden kalkık ve yanlara açık, karın uyluklardan uzak şekilde alın, burun, eller, dizler ve ayak parmakları yere konularak 3 kez 'Sübhâne Rabbiye'l-A'lâ' denir.</li><li><b>Oturuş (Ka'de) ve Selam:</b> Sol ayak yayılır, sağ ayak dik tutulur. Ettehiyyâtü, Salli-Bârik ve Rabbenâ okunduktan sonra sağa ve sola selam verilir.</li></ol>"
+    ],
+    [
+      "2. Hanımlar İçin Namaz Rükünleri",
+      "<h3>Hanımlarda Namazın Kılınışı ve Rükünleri</h3><div style='margin:12px 0; text-align:center;'><img src='__FIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Niyet ve İftitah Tekbiri:</b> Kıbleye dönülür, niyet edilir. Eller omuz hizasına kaldırılarak 'Allahu Ekber' denir.</li><li><b>Kıyam:</b> Sağ el sol elin üzerine (halka yapmadan) göğüs üzerinde konulur; ayaklar birbirine yakın tutulur.</li><li><b>Rükû:</b> Sırt tam düz yapılmaz, dizler hafif kırık şekilde eller dizlerin üzerine konulur ve parmaklar açılmaz.</li><li><b>Secde:</b> Kollar yanlara ve yere yapışık, karın uyluklara bitişik şekilde mümkün olduğunca toplu halde 3 kez 'Sübhâne Rabbiye'l-A'lâ' denir.</li><li><b>Oturuş (Tevverrük) ve Selam:</b> Ayaklar sağa yatırılarak sol kalça üzerine oturulur. Dualar okunduktan sonra sağa ve sola selam verilir.</li></ol>"
+    ],
+    [
+      "3. Abdest Nasıl Alınır?",
+      "<h3>Adım Adım Abdest</h3><ol><li><b>Niyet ve Besmele:</b> 'Niyet ettim Allah rızası için abdest almaya' denir ve Eûzü-Besmele çekilir.</li><li><b>Eller:</b> Bileklere kadar 3 kez yıkanır, parmak araları hilallenir.</li><li><b>Ağız ve Burun:</b> Sağ avuçla 3 kez ağza su verilir (mazmaza), 3 kez buruna su çekilir (istinşak).</li><li><b>Yüz:</b> Alın saç bitiminden çene altına ve kulaklara kadar 3 kez yıkanır.</li><li><b>Kollar:</b> Önce sağ, sonra sol kol dirseklerle beraber 3 kez yıkanır.</li><li><b>Baş, Kulak ve Boyun:</b> Islak elle başın dörtte biri, kulaklar ve boyun meshedilir.</li><li><b>Ayaklar:</b> Önce sağ, sonra sol ayak topuklarla beraber 3 kez yıkanır.</li></ol>"
+    ],
+    [
+      "4. Beş Vakit Namaz Özeti",
+      "<h3>Vakit Namazları Rekatları</h3><ul><li><b>Sabah Namazı:</b> 2 Sünnet + 2 Farz</li><li><b>Öğle Namazı:</b> 4 İlk Sünnet + 4 Farz + 2 Son Sünnet</li><li><b>İkindi Namazı:</b> 4 Sünnet + 4 Farz</li><li><b>Akşam Namazı:</b> 3 Farz + 2 Sünnet</li><li><b>Yatsı Namazı:</b> 4 İlk Sünnet + 4 Farz + 2 Son Sünnet + 3 Vitir</li></ul>"
+    ],
+    [
+      "5. Cuma Namazı Kılınışı",
+      "<h3>Cuma Namazı (16 Rekat)</h3><p>Cuma namazı cemaatle kılınır ve farzı 2 rekattır:</p><ol><li><b>4 Rekat İlk Sünnet:</b> Öğle namazının ilk sünneti gibi kılınır.</li><li><b>Hutbe ve 2 Rekat Farz:</b> İmam minberde hutbe okur (sessizce dinlenir). Ardından kamet getirilir ve imama uyularak 2 rekat farz kılınır.</li><li><b>4 Rekat Son Sünnet:</b> Öğle namazının ilk sünneti gibi kılınır.</li><li><b>4 Rekat Zuhr-i Âhir & 2 Rekat Vaktin Sünneti:</b> İhtiyaten kılınan 4 rekat namazın ardından 2 rekat sabah namazı sünneti gibi kılınarak tamamlanır.</li></ol>"
+    ],
+    [
+      "6. Bayram Namazları Kılınışı",
+      "<h3>Ramazan ve Kurban Bayramı Namazı (2 Rekat)</h3><p>Bayram namazları cemaatle kılınan vacip namazlardır ve her rekatta <b>3 Zevâid Tekbiri</b> vardır:</p><ol><li><b>1. Rekat:</b> Niyet edilir, İftitah tekbiri alınıp eller bağlanır ve <b>Sübhaneke</b> okunur. Ardından imamla birlikte eller kulak hizasına kaldırılarak <b>3 kez tekbir</b> alınır: İlk ikisinde eller yanlara salınır, <b>3. tekbirden sonra eller bağlanır</b>. İmam Fâtiha ve sure okur, rükû ve secdeler yapılır.</li><li><b>2. Rekat:</b> İmam önce Fâtiha ve sureyi okur. Rükûya gitmeden önce imamla birlikte <b>3 kez daha tekbir</b> alınır: Üçünde de eller yanlara salınır, <b>4. tekbir ile rükûya eğilinir</b>. Secdeler ve oturuşun ardından selam verilir.</li></ol>"
+    ],
+    [
+      "7. Namaz Duaları",
+      "<h3>Sübhaneke</h3><p><i>Sübhânekellâhümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük (ve celle senâük) ve lâ ilâhe ğayruk.</i></p><h3>Ettehiyyâtü</h3><p><i>Ettehiyyâtü lillâhi vessalevâtü vettayyibât. Esselâmü aleyke eyyühen-nebiyyü ve rahmetullâhi ve berekâtüh. Esselâmü aleynâ ve alâ ibâdillâhis-sâlihîn. Eşhedü en lâ ilâhe illallâh ve eşhedü enne Muhammeden abdühû ve resûlüh.</i></p><h3>Allahümme Salli & Bârik</h3><p><i>Allâhümme salli alâ Muhammedin ve alâ âli Muhammed, kemâ salleyte alâ İbrâhîme ve alâ âli İbrâhîm, inneke hamîdün mecîd.</i></p>"
+    ],
+    [
+      "8. Kısa Zikirler ve Anlamları",
+      "<h3>Günlük Tesbihat ve Faziletli Zikirler</h3><ul><li><b>Sübhânallâh (33 kez):</b> <i>Allah'ı her türlü eksiklikten tenzih ederim.</i></li><li><b>Elhamdülillâh (33 kez):</b> <i>Bütün hamd ve övgüler Allah'a mahsustur.</i></li><li><b>Allâhu Ekber (33 kez):</b> <i>Allah en büyüktür.</i></li><li><b>Lâ ilâhe illallâh:</b> <i>Allah'tan başka ilah yoktur.</i></li><li><b>Estağfirullâh el-Azîm:</b> <i>Yüce Allah'tan bağışlanma dilerim.</i></li></ul>"
+    ]
+  ]
+}

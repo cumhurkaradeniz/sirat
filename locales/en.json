@@ -1,0 +1,226 @@
+{
+  "label": "EN • English",
+  "ui": {
+    "nav": [
+      "Prayer Times",
+      "Holy Quran",
+      "Hadith Library",
+      "Islamic Days",
+      "Prayer Guide",
+      "Tasbih",
+      "About"
+    ],
+    "city_ph": "City (e.g. London)",
+    "country_ph": "Country (e.g. UK)",
+    "upd_btn": "Update Location",
+    "next_fmt": "{city} • Time left until {prayer}:",
+    "wait_next": "{city} • Waiting for tomorrow's Fajr",
+    "err_time": "Could not calculate times",
+    "prayers": [
+      "Fajr",
+      "Sunrise",
+      "Dhuhr",
+      "Asr",
+      "Maghrib",
+      "Isha"
+    ],
+    "surah_ph": "Search Surah...",
+    "play": "▶ Listen",
+    "pause": "⏸ Pause",
+    "resume": "▶ Resume",
+    "hadith_ph": "Search Hadiths by topic or keyword...",
+    "no_hadith": "No matching Hadiths found.",
+    "source": "Source",
+    "days_left": "({d} days left)",
+    "today": "(Today)",
+    "passed": "(Passed)",
+    "theme_lbl": "Theme:",
+    "themes": [
+      "Auto",
+      "Light",
+      "Dark"
+    ],
+    "lang_lbl": "Lang:",
+    "font_lbl": "Font:",
+    "notif_lbl": "Alerts:",
+    "on": "On",
+    "off": "Off",
+    "tray_show": "Show / Hide",
+    "tray_quit": "Quit",
+    "tray_stop": "🔇 Stop Sound",
+    "notif_title": "Sirat • Prayer Time",
+    "notif_body": "It is time for {prayer} in {city} ({time}).",
+    "tray_bg": "Sirat is running in the background.",
+    "test_btn": "▶ Test",
+    "test_off": "Notifications are off. Enable notifications to test sound.",
+    "sounds": [
+      "🔔 Classic Bell",
+      "🕌 Deep Gong",
+      "✨ Crystal Chime",
+      "🎶 Peaceful Melody"
+    ],
+    "dhikr_tap": "📿  Count Dhikr  (+1)",
+    "dhikr_rst": "Reset",
+    "dhikr_stat": "Target: {cur} / {tgt}   •   Total Dhikr: {tot}"
+  },
+  "calendar": [
+    [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "ISLAMIC CALENDAR LEAF",
+    "📖 Verse of the Day",
+    "📜 Hadith of the Day",
+    "Day {d} of the Year",
+    "ltr"
+  ],
+  "days": [
+    [
+      "2026-12-10",
+      "Start of Three Holy Months",
+      "<h3>Beginning of Rajab</h3><p>Season of spiritual renewal: Nafl prayers, Quran recitation, and voluntary fasting.</p>"
+    ],
+    [
+      "2026-12-17",
+      "Laylat al-Raghaib",
+      "<h3>Laylat al-Raghaib</h3><p>First Friday night of Rajab: Night prayers, repentance, and charity.</p>"
+    ],
+    [
+      "2027-01-05",
+      "Isra and Mi'raj",
+      "<h3>Night of Isra and Mi'raj</h3><p>The night five daily prayers were ordained.</p>"
+    ],
+    [
+      "2027-01-24",
+      "Laylat al-Bara'ah",
+      "<h3>Night of Forgiveness (Mid-Sha'ban)</h3><p>Night of seeking mercy and fasting the next day.</p>"
+    ],
+    [
+      "2027-02-08",
+      "Start of Ramadan",
+      "<h3>Blessed Month of Ramadan</h3><p>Month of fasting, Taraweeh prayers, and Zakat.</p>"
+    ],
+    [
+      "2027-03-05",
+      "Laylat al-Qadr",
+      "<h3>Night of Decree</h3><p>Better than a thousand months.</p>"
+    ],
+    [
+      "2027-03-09",
+      "Eid al-Fitr (3 Days)",
+      "<h3>Eid al-Fitr</h3><p>Eid prayer, Zakat al-Fitr, and family visits.</p>"
+    ],
+    [
+      "2027-05-15",
+      "Day of Arafah",
+      "<h3>Day of Arafah</h3><p>Fasting on Arafah and beginning Takbir al-Tashreeq after Fajr.</p>"
+    ],
+    [
+      "2027-05-16",
+      "Eid al-Adha (4 Days)",
+      "<h3>Eid al-Adha</h3><p>Eid prayer, Qurbani sacrifice, sharing with the needy, and Takbir al-Tashreeq.</p>"
+    ],
+    [
+      "2027-06-06",
+      "Islamic New Year (1 Muharram)",
+      "<h3>Islamic New Year 1449 AH</h3><p>Commemorating the Hijrah; voluntary fasting in Muharram.</p>"
+    ],
+    [
+      "2027-06-15",
+      "Day of Ashura (10 Muharram)",
+      "<h3>Day of Ashura</h3><p>Fasting on the 9th–10th or 10th–11th of Muharram and giving charity.</p>"
+    ],
+    [
+      "2027-08-14",
+      "Mawlid al-Nabi",
+      "<h3>Mawlid al-Nabi</h3><p>Sending abundant Salawat upon Prophet Muhammad ﷺ and studying his Seerah.</p>"
+    ]
+  ],
+  "dhikr": [
+    "+ Add",
+    "Transliteration:",
+    "Meaning:",
+    "Stage {s} ({r})",
+    "Add Custom Dhikr",
+    "Name *:",
+    "Arabic:",
+    "Reading:",
+    "Meaning:",
+    "Target:",
+    "Save",
+    "Cancel",
+    [
+      "Post-Prayer Tasbih (33×3)",
+      "SubhanAllahi wa bihamdihi",
+      "Astaghfirullah al-Azim",
+      "Salawat upon the Prophet ﷺ",
+      "Kalima Tayyibah",
+      "Hawqala",
+      "HasbunAllahu wa ni'mal Wakil",
+      "Al-Baqiyat as-Salihat",
+      "Dua of Prophet Yunus (AS)"
+    ],
+    [
+      "Glory be to Allah.",
+      "All praise is due to Allah.",
+      "Allah is the Greatest.",
+      "Glory and praise be to Allah.",
+      "I seek forgiveness from Allah, the Almighty.",
+      "O Allah, send blessings upon our Master Muhammad.",
+      "There is no deity except Allah, and Muhammad is His Messenger.",
+      "There is no power and no strength except with Allah.",
+      "Allah is sufficient for us, and He is the best Disposer of affairs.",
+      "Glory be to Allah, all praise is for Allah, there is no god but Allah, and Allah is the Greatest.",
+      "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers."
+    ]
+  ],
+  "guide": [
+    [
+      "1. Prayer Postures (Men)",
+      "<h3>Prayer Postures for Men</h3><div style='margin:12px 0; text-align:center;'><img src='__MIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir:</b> Raise hands up to earlobes.</li><li><b>Qiyam:</b> Clasp hands below the navel.</li><li><b>Ruku:</b> Bow with back completely flat (90 degrees).</li><li><b>Sujood:</b> Keep elbows lifted from the ground and stomach away from thighs.</li><li><b>Sitting:</b> Sit on left foot with right foot upright.</li></ol>"
+    ],
+    [
+      "2. Prayer Postures (Women)",
+      "<h3>Prayer Postures for Women</h3><div style='margin:12px 0; text-align:center;'><img src='__FIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir:</b> Raise hands up to shoulder level.</li><li><b>Qiyam:</b> Place right hand over left on the chest.</li><li><b>Ruku:</b> Bow slightly with knees slightly bent and hands on knees.</li><li><b>Sujood:</b> Keep arms close to sides and body compact.</li><li><b>Sitting:</b> Sit on left hip with both feet extended to the right.</li></ol>"
+    ],
+    [
+      "3. How to Perform Wudu",
+      "<h3>Step-by-Step Wudu</h3><ol><li>Make intention and say Bismillah.</li><li>Wash hands, mouth, nose, face, and arms 3 times.</li><li>Wipe head and ears once, then wash feet 3 times.</li></ol>"
+    ],
+    [
+      "4. Daily Prayer Rakahs",
+      "<h3>Summary of Daily Rakahs</h3><ul><li><b>Fajr:</b> 2 Sunnah + 2 Fard</li><li><b>Dhuhr:</b> 4 Sunnah + 4 Fard + 2 Sunnah</li><li><b>Asr:</b> 4 Sunnah + 4 Fard</li><li><b>Maghrib:</b> 3 Fard + 2 Sunnah</li><li><b>Isha:</b> 4 Sunnah + 4 Fard + 2 Sunnah + 3 Witr</li></ul>"
+    ],
+    [
+      "5. Jumu'ah (Friday) Prayer",
+      "<h3>Jumu'ah Prayer</h3><p>Performed in congregation on Friday instead of Dhuhr: 4 Rakah Sunnah, listening to the Khutbah, 2 Rakah Fard in congregation, followed by 4 Rakah Sunnah.</p>"
+    ],
+    [
+      "6. Eid Prayers (Fitr & Adha)",
+      "<h3>Eid Prayer (2 Rakahs)</h3><p>Includes 3 extra Takbirs in each Rakah: In the 1st Rakah, after Subhanaka, raise hands 3 times (drop sides on first two, fold on the 3rd). In the 2nd Rakah, after recitation, raise hands 3 times before bowing on the 4th Takbir.</p>"
+    ],
+    [
+      "7. Short Dhikr & Meanings",
+      "<h3>Daily Remembrance (Dhikr)</h3><ul><li><b>SubhanAllah (33x):</b> <i>Glory be to Allah.</i></li><li><b>Alhamdulillah (33x):</b> <i>All praise is due to Allah.</i></li><li><b>Allahu Akbar (33x):</b> <i>Allah is the Greatest.</i></li><li><b>La ilaha illallah:</b> <i>There is no deity worthy of worship except Allah.</i></li><li><b>Astaghfirullah:</b> <i>I seek forgiveness from Allah.</i></li></ul>"
+    ]
+  ]
+}

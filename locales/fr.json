@@ -1,0 +1,226 @@
+{
+  "label": "FR • Français",
+  "ui": {
+    "nav": [
+      "Horaires",
+      "Saint Coran",
+      "Hadiths",
+      "Jours Saints",
+      "Guide Prière",
+      "Tasbih",
+      "À propos"
+    ],
+    "city_ph": "Ville (ex: Paris)",
+    "country_ph": "Pays (ex: France)",
+    "upd_btn": "Mettre à jour",
+    "next_fmt": "{city} • Temps restant avant {prayer} :",
+    "wait_next": "{city} • En attente de Fajr",
+    "err_time": "Calcul impossible",
+    "prayers": [
+      "Fajr",
+      "Lever",
+      "Dhuhr",
+      "Asr",
+      "Maghrib",
+      "Isha"
+    ],
+    "surah_ph": "Chercher une sourate...",
+    "play": "▶ Écouter",
+    "pause": "⏸ Pause",
+    "resume": "▶ Reprendre",
+    "hadith_ph": "Rechercher dans les hadiths...",
+    "no_hadith": "Aucun hadith trouvé.",
+    "source": "Source",
+    "days_left": "({d} jours restants)",
+    "today": "(Aujourd'hui)",
+    "passed": "(Passé)",
+    "theme_lbl": "Thème:",
+    "themes": [
+      "Auto",
+      "Clair",
+      "Sombre"
+    ],
+    "lang_lbl": "Langue:",
+    "font_lbl": "Police:",
+    "notif_lbl": "Alertes:",
+    "on": "Actif",
+    "off": "Inactif",
+    "tray_show": "Afficher / Masquer",
+    "tray_quit": "Quitter",
+    "tray_stop": "🔇 Arrêter le son",
+    "notif_title": "Sirat • Heure de Prière",
+    "notif_body": "C'est l'heure de {prayer} à {city} ({time}).",
+    "tray_bg": "Sirat continue en arrière-plan.",
+    "test_btn": "▶ Tester",
+    "test_off": "Notifications désactivées. Activez-les pour tester le son.",
+    "sounds": [
+      "🔔 Cloche Classique",
+      "🕌 Gong Profond",
+      "✨ Carillon Cristal",
+      "🎶 Mélodie Paisible"
+    ],
+    "dhikr_tap": "📿  Compter Dhikr  (+1)",
+    "dhikr_rst": "Réinitialiser",
+    "dhikr_stat": "Objectif : {cur} / {tgt}   •   Total : {tot}"
+  },
+  "calendar": [
+    [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ],
+    [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Août",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre"
+    ],
+    "FEUILLET CALENDRIER ISLAMIQUE",
+    "📖 Verset du Jour",
+    "📜 Hadith du Jour",
+    "Jour {d} de l'année",
+    "ltr"
+  ],
+  "days": [
+    [
+      "2026-12-10",
+      "Début des Trois Mois Sacrés",
+      "<h3>Début de Rajab</h3><p>Saison de renouveau spirituel : prières surérogatoires, lecture du Coran et jeûne.</p>"
+    ],
+    [
+      "2026-12-17",
+      "Nuit de Raghaïb",
+      "<h3>Laylat al-Raghaïb</h3><p>Première nuit du vendredi de Rajab : prières nocturnes, repentir et aumône.</p>"
+    ],
+    [
+      "2027-01-05",
+      "Isra et Mi'raj",
+      "<h3>Nuit de l'Ascension</h3><p>La nuit où les cinq prières quotidiennes furent prescrites.</p>"
+    ],
+    [
+      "2027-01-24",
+      "Nuit du Pardon (Bara'ah)",
+      "<h3>Mi-Cha'bane</h3><p>Nuit de miséricorde, d'invocation et de jeûne le lendemain.</p>"
+    ],
+    [
+      "2027-02-08",
+      "Début du Ramadan",
+      "<h3>Mois Béni du Ramadan</h3><p>Mois du jeûne, des prières de Tarawih et de la Zakat.</p>"
+    ],
+    [
+      "2027-03-05",
+      "Nuit du Destin (Al-Qadr)",
+      "<h3>Laylat al-Qadr</h3><p>Meilleure que mille mois.</p>"
+    ],
+    [
+      "2027-03-09",
+      "Aïd al-Fitr (3 Jours)",
+      "<h3>Aïd al-Fitr</h3><p>Prière de l'Aïd, Zakat al-Fitr et visites familiales.</p>"
+    ],
+    [
+      "2027-05-15",
+      "Jour d'Arafat",
+      "<h3>Jour d'Arafat</h3><p>Jeûne d'Arafat et début des Takbirat al-Tachriq après le Fajr.</p>"
+    ],
+    [
+      "2027-05-16",
+      "Aïd al-Adha (4 Jours)",
+      "<h3>Aïd al-Adha</h3><p>Prière de l'Aïd, sacrifice (Qurbani) et partage avec les nécessiteux.</p>"
+    ],
+    [
+      "2027-06-06",
+      "Nouvel An Hégirien (1 Muharram)",
+      "<h3>Nouvel An Islamique 1449</h3><p>Commémoration de l'Hégire et jeûne recommandé en Muharram.</p>"
+    ],
+    [
+      "2027-06-15",
+      "Jour d'Achoura (10 Muharram)",
+      "<h3>Jour d'Achoura</h3><p>Jeûne des 9-10 ou 10-11 Muharram et aumône.</p>"
+    ],
+    [
+      "2027-08-14",
+      "Mawlid al-Nabi",
+      "<h3>Mawlid al-Nabi</h3><p>Multiplier les prières sur le Prophète ﷺ et étudier sa Sira.</p>"
+    ]
+  ],
+  "dhikr": [
+    "+ Ajouter",
+    "Translittération :",
+    "Signification :",
+    "Étape {s} ({r})",
+    "Ajouter un Dhikr",
+    "Nom * :",
+    "Arabe :",
+    "Lecture :",
+    "Sens :",
+    "Objectif :",
+    "Enregistrer",
+    "Annuler",
+    [
+      "Tasbih après la prière (33×3)",
+      "SubhanAllahi wa bihamdihi",
+      "Astaghfirullah al-Azim",
+      "Salawat sur le Prophète ﷺ",
+      "Kalima Tayyibah",
+      "Hawqala",
+      "HasbunAllahu wa ni'mal Wakil",
+      "Al-Baqiyat as-Salihat",
+      "Invocation de Yunus (AS)"
+    ],
+    [
+      "Gloire à Allah.",
+      "Louange à Allah.",
+      "Allah est le Plus Grand.",
+      "Gloire et louange à Allah.",
+      "Je demande pardon à Allah, le Tout-Puissant.",
+      "Ô Allah, bénis notre Maître Muhammad.",
+      "Il n'y a de divinité qu'Allah et Muhammad est Son Messager.",
+      "Il n'y a de force ni de puissance qu'en Allah.",
+      "Allah nous suffit, Il est notre meilleur Garant.",
+      "Gloire à Allah, louange à Allah, il n'y a de dieu qu'Allah et Allah est le Plus Grand.",
+      "Pas de divinité à part Toi ! Pureté à Toi ! J'ai été vraiment du nombre des injustes."
+    ]
+  ],
+  "guide": [
+    [
+      "1. Postures de Prière (Hommes)",
+      "<h3>Postures de Prière pour les Hommes</h3><div style='margin:12px 0; text-align:center;'><img src='__MIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir :</b> Lever les mains au niveau des lobes d'oreilles.</li><li><b>Qiyam :</b> Joindre les mains sous le nombril.</li><li><b>Ruku :</b> S'incliner le dos droit à 90 degrés.</li><li><b>Sujood :</b> Garder les coudes levés du sol.</li><li><b>Assise :</b> S'asseoir sur le pied gauche, le pied droit dressé.</li></ol>"
+    ],
+    [
+      "2. Postures de Prière (Femmes)",
+      "<h3>Postures de Prière pour les Femmes</h3><div style='margin:12px 0; text-align:center;'><img src='__FIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir :</b> Lever les mains au niveau des épaules.</li><li><b>Qiyam :</b> Poser la main droite sur la gauche sur la poitrine.</li><li><b>Ruku :</b> S'incliner légèrement, mains sur les genoux.</li><li><b>Sujood :</b> Garder les bras proches du corps.</li><li><b>Assise :</b> S'asseoir sur la hanche gauche, pieds vers la droite.</li></ol>"
+    ],
+    [
+      "3. Comment faire les Ablutions (Wudu)",
+      "<h3>Étapes des Ablutions</h3><ol><li>Formuler l'intention et dire Bismillah.</li><li>Laver les mains, la bouche, le nez, le visage et les bras 3 fois.</li><li>Essuyer la tête et les oreilles, puis laver les pieds 3 fois.</li></ol>"
+    ],
+    [
+      "4. Nombre de Rak'ahs Quotidiennes",
+      "<h3>Résumé des Prières</h3><ul><li><b>Fajr :</b> 2 Sunnah + 2 Fard</li><li><b>Dhuhr :</b> 4 Sunnah + 4 Fard + 2 Sunnah</li><li><b>Asr :</b> 4 Sunnah + 4 Fard</li><li><b>Maghrib :</b> 3 Fard + 2 Sunnah</li><li><b>Isha :</b> 4 Sunnah + 4 Fard + 2 Sunnah + 3 Witr</li></ul>"
+    ],
+    [
+      "5. Prière du Vendredi (Jumu'ah)",
+      "<h3>Prière de Jumu'ah</h3><p>Accomplie en congrégation le vendredi : 4 Rak'ahs Sunnah, écoute du sermon (Khutbah), 2 Rak'ahs Fard, puis 4 Rak'ahs Sunnah.</p>"
+    ],
+    [
+      "6. Prières de l'Aïd",
+      "<h3>Prière de l'Aïd (2 Rak'ahs)</h3><p>Comprend 3 Takbirs supplémentaires dans chaque Rak'ah (avant la récitation dans la 1ère, avant le Ruku dans la 2ème).</p>"
+    ],
+    [
+      "7. Invocations et Dhikr",
+      "<h3>Dhikr Quotidien</h3><ul><li><b>SubhanAllah (33x) :</b> Gloire à Allah.</li><li><b>Alhamdulillah (33x) :</b> Louange à Allah.</li><li><b>Allahu Akbar (33x) :</b> Allah est le Plus Grand.</li></ul>"
+    ]
+  ]
+}

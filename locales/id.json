@@ -1,0 +1,226 @@
+{
+  "label": "ID • Indonesia",
+  "ui": {
+    "nav": [
+      "Waktu Sholat",
+      "Al-Qur'an",
+      "Kitab Hadis",
+      "Hari Islam",
+      "Panduan Sholat",
+      "Tasbih",
+      "Tentang"
+    ],
+    "city_ph": "Kota (mis. Jakarta)",
+    "country_ph": "Negara (mis. Indonesia)",
+    "upd_btn": "Perbarui",
+    "next_fmt": "{city} • Waktu tersisa menuju {prayer}:",
+    "wait_next": "{city} • Menunggu Subuh besok",
+    "err_time": "Gagal menghitung waktu",
+    "prayers": [
+      "Subuh",
+      "Terbit",
+      "Dzuhur",
+      "Ashar",
+      "Maghrib",
+      "Isya"
+    ],
+    "surah_ph": "Cari surah...",
+    "play": "▶ Putar",
+    "pause": "⏸ Jeda",
+    "resume": "▶ Lanjut",
+    "hadith_ph": "Cari hadis...",
+    "no_hadith": "Hadis tidak ditemukan.",
+    "source": "Sumber",
+    "days_left": "({d} hari lagi)",
+    "today": "(Hari ini)",
+    "passed": "(Lewat)",
+    "theme_lbl": "Tema:",
+    "themes": [
+      "Oto",
+      "Terang",
+      "Gelap"
+    ],
+    "lang_lbl": "Bahasa:",
+    "font_lbl": "Huruf:",
+    "notif_lbl": "Notifikasi:",
+    "on": "Aktif",
+    "off": "Mati",
+    "tray_show": "Tampilkan / Sembunyikan",
+    "tray_quit": "Keluar",
+    "tray_stop": "🔇 Hentikan Suara",
+    "notif_title": "Sirat • Waktu Sholat",
+    "notif_body": "Waktunya sholat {prayer} untuk {city} ({time}).",
+    "tray_bg": "Sirat berjalan di latar belakang.",
+    "test_btn": "▶ Tes",
+    "test_off": "Notifikasi mati. Aktifkan notifikasi untuk menguji suara.",
+    "sounds": [
+      "🔔 Lonceng Klasik",
+      "🕌 Gong Dalam",
+      "✨ Lonceng Kristal",
+      "🎶 Melodi Damai"
+    ],
+    "dhikr_tap": "📿  Hitung Dzikir  (+1)",
+    "dhikr_rst": "Reset",
+    "dhikr_stat": "Target: {cur} / {tgt}   •   Total Dzikir: {tot}"
+  },
+  "calendar": [
+    [
+      "Senin",
+      "Selasa",
+      "Rabu",
+      "Kamis",
+      "Jumat",
+      "Sabtu",
+      "Minggu"
+    ],
+    [
+      "Januari",
+      "Februari",
+      "Maret",
+      "April",
+      "Mei",
+      "Juni",
+      "Juli",
+      "Agustus",
+      "September",
+      "Oktober",
+      "November",
+      "Desember"
+    ],
+    "LEMBAR KALENDER ISLAM",
+    "📖 Ayat Hari Ini",
+    "📜 Hadis Hari Ini",
+    "Hari ke-{d} Tahun Ini",
+    "ltr"
+  ],
+  "days": [
+    [
+      "2026-12-10",
+      "Awal Tiga Bulan Suci (1 Rajab)",
+      "<h3>Awal Bulan Rajab</h3><p>Musim penyucian jiwa: memperbanyak shalat sunnah, tilawah Al-Qur'an, dan puasa sunnah.</p>"
+    ],
+    [
+      "2026-12-17",
+      "Malam Raghaib",
+      "<h3>Laylat al-Raghaib</h3><p>Malam Jumat pertama bulan Rajab: shalat malam, istighfar, dan sedekah.</p>"
+    ],
+    [
+      "2027-01-05",
+      "Isra Mi'raj",
+      "<h3>Malam Isra dan Mi'raj</h3><p>Malam diwajibkannya shalat lima waktu.</p>"
+    ],
+    [
+      "2027-01-24",
+      "Malam Nisfu Sya'ban",
+      "<h3>Malam Pengampunan</h3><p>Malam memohon ampunan dan berpuasa sunnah pada keesokan harinya.</p>"
+    ],
+    [
+      "2027-02-08",
+      "Awal Ramadhan",
+      "<h3>Bulan Suci Ramadhan</h3><p>Bulan puasa, shalat Tarawih, tadarus Al-Qur'an, dan zakat.</p>"
+    ],
+    [
+      "2027-03-05",
+      "Lailatul Qadar",
+      "<h3>Malam Kemuliaan</h3><p>Malam yang lebih baik dari seribu bulan.</p>"
+    ],
+    [
+      "2027-03-09",
+      "Idul Fitri (3 Hari)",
+      "<h3>Hari Raya Idul Fitri</h3><p>Shalat Id, menunaikan zakat fitrah, dan silaturahmi.</p>"
+    ],
+    [
+      "2027-05-15",
+      "Hari Arafah",
+      "<h3>Hari Arafah</h3><p>Puasa sunnah Arafah dan dimulainya Takbir Tasyrik setelah Subuh.</p>"
+    ],
+    [
+      "2027-05-16",
+      "Idul Adha (4 Hari)",
+      "<h3>Hari Raya Idul Adha</h3><p>Shalat Id, ibadah kurban, dan berbagi kepada sesama.</p>"
+    ],
+    [
+      "2027-06-06",
+      "Tahun Baru Islam (1 Muharram)",
+      "<h3>Tahun Baru Hijriah 1449</h3><p>Memperingati peristiwa Hijrah dan puasa sunnah bulan Muharram.</p>"
+    ],
+    [
+      "2027-06-15",
+      "Hari Asyura (10 Muharram)",
+      "<h3>Hari Asyura</h3><p>Puasa sunnah tanggal 9-10 atau 10-11 Muharram dan bersedekah.</p>"
+    ],
+    [
+      "2027-08-14",
+      "Maulid Nabi Muhammad ﷺ",
+      "<h3>Maulid Nabi</h3><p>Memperbanyak shalawat kepada Nabi ﷺ dan mempelajari sirah beliau.</p>"
+    ]
+  ],
+  "dhikr": [
+    "+ Tambah",
+    "Bacaan:",
+    "Arti:",
+    "Tahap {s} ({r})",
+    "Tambah Dzikir",
+    "Nama *:",
+    "Arab:",
+    "Bacaan:",
+    "Arti:",
+    "Target:",
+    "Simpan",
+    "Batal",
+    [
+      "Tasbih Setelah Shalat (33×3)",
+      "Subhanallahi wa bihamdihi",
+      "Astaghfirullah al-Azim",
+      "Shalawat Nabi ﷺ",
+      "Kalimat Tayyibah",
+      "Hauqalah",
+      "Hasbunallahu wa ni'mal Wakil",
+      "Al-Baqiyat as-Salihat",
+      "Doa Nabi Yunus (AS)"
+    ],
+    [
+      "Maha Suci Allah.",
+      "Segala puji bagi Allah.",
+      "Allah Maha Besar.",
+      "Maha Suci Allah dan segala puji bagi-Nya.",
+      "Aku memohon ampun kepada Allah Yang Maha Agung.",
+      "Ya Allah, limpahkan shalawat kepada Nabi Muhammad.",
+      "Tiada tuhan selain Allah, Muhammad utusan Allah.",
+      "Tiada daya dan upaya kecuali dengan pertolongan Allah.",
+      "Cukuplah Allah bagi kami dan Dia sebaik-baik Pelindung.",
+      "Maha Suci Allah, segala puji bagi Allah, tiada tuhan selain Allah, Allah Maha Besar.",
+      "Tiada tuhan selain Engkau, Maha Suci Engkau, sungguh aku termasuk orang yang zalim."
+    ]
+  ],
+  "guide": [
+    [
+      "1. Gerakan Shalat (Pria)",
+      "<h3>Tata Cara Shalat Pria</h3><div style='margin:12px 0; text-align:center;'><img src='__MIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir:</b> Mengangkat tangan sejajar daun telinga.</li><li><b>Qiyam:</b> Bersedekap di bawah pusar.</li><li><b>Rukuk:</b> Membungkuk punggung lurus 90 derajat.</li><li><b>Sujud:</b> Siku diangkat dari lantai dan perut jauh dari paha.</li><li><b>Duduk:</b> Duduk iftirasy di atas kaki kiri.</li></ol>"
+    ],
+    [
+      "2. Gerakan Shalat (Wanita)",
+      "<h3>Tata Cara Shalat Wanita</h3><div style='margin:12px 0; text-align:center;'><img src='__FIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir:</b> Mengangkat tangan sejajar bahu.</li><li><b>Qiyam:</b> Meletakkan tangan kanan di atas kiri di dada.</li><li><b>Rukuk:</b> Membungkuk ringan, tangan di lutut.</li><li><b>Sujud:</b> Merapatkan lengan ke sisi tubuh.</li><li><b>Duduk:</b> Duduk tawarruk di pinggul kiri.</li></ol>"
+    ],
+    [
+      "3. Tata Cara Wudhu",
+      "<h3>Langkah-Langkah Wudhu</h3><ol><li>Niat dan membaca Bismillah.</li><li>Membasuh tangan, mulut, hidung, wajah, dan lengan 3 kali.</li><li>Mengusap kepala dan telinga, lalu membasuh kaki 3 kali.</li></ol>"
+    ],
+    [
+      "4. Jumlah Rakaat Shalat",
+      "<h3>Ringkasan Shalat Wajib</h3><ul><li><b>Subuh:</b> 2 Sunnah + 2 Fardhu</li><li><b>Dzuhur:</b> 4 Sunnah + 4 Fardhu + 2 Sunnah</li><li><b>Ashar:</b> 4 Sunnah + 4 Fardhu</li><li><b>Maghrib:</b> 3 Fardhu + 2 Sunnah</li><li><b>Isya:</b> 4 Sunnah + 4 Fardhu + 2 Sunnah + 3 Witir</li></ul>"
+    ],
+    [
+      "5. Shalat Jumat",
+      "<h3>Shalat Jumat</h3><p>Dilaksanakan berjamaah pada hari Jumat: 4 Sunnah, mendengarkan Khutbah, 2 Fardhu, dan 4 Sunnah.</p>"
+    ],
+    [
+      "6. Shalat Idul Fitri & Adha",
+      "<h3>Shalat Id (2 Rakaat)</h3><p>Disertai 3 kali takbir tambahan pada setiap rakaat.</p>"
+    ],
+    [
+      "7. Dzikir Harian",
+      "<h3>Bacaan Dzikir</h3><ul><li><b>SubhanAllah (33x):</b> Maha Suci Allah.</li><li><b>Alhamdulillah (33x):</b> Segala puji bagi Allah.</li><li><b>Allahu Akbar (33x):</b> Allah Maha Besar.</li></ul>"
+    ]
+  ]
+}

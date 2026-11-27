@@ -1,0 +1,226 @@
+{
+  "label": "ES • Español",
+  "ui": {
+    "nav": [
+      "Horarios",
+      "Sagrado Corán",
+      "Hadices",
+      "Días Islámicos",
+      "Guía Oración",
+      "Tasbih",
+      "Acerca de"
+    ],
+    "city_ph": "Ciudad (ej. Madrid)",
+    "country_ph": "País (ej. España)",
+    "upd_btn": "Actualizar",
+    "next_fmt": "{city} • Tiempo restante para {prayer}:",
+    "wait_next": "{city} • Esperando el Fajr",
+    "err_time": "No se pudieron calcular",
+    "prayers": [
+      "Fajr",
+      "Amanecer",
+      "Dhuhr",
+      "Asr",
+      "Maghrib",
+      "Isha"
+    ],
+    "surah_ph": "Buscar sura...",
+    "play": "▶ Escuchar",
+    "pause": "⏸ Pausar",
+    "resume": "▶ Reanudar",
+    "hadith_ph": "Buscar hadices por tema...",
+    "no_hadith": "No se encontraron hadices.",
+    "source": "Fuente",
+    "days_left": "(faltan {d} días)",
+    "today": "(Hoy)",
+    "passed": "(Pasado)",
+    "theme_lbl": "Tema:",
+    "themes": [
+      "Auto",
+      "Claro",
+      "Oscuro"
+    ],
+    "lang_lbl": "Idioma:",
+    "font_lbl": "Fuente:",
+    "notif_lbl": "Alertas:",
+    "on": "Sí",
+    "off": "No",
+    "tray_show": "Mostrar / Ocultar",
+    "tray_quit": "Salir",
+    "tray_stop": "🔇 Detener sonido",
+    "notif_title": "Sirat • Hora de Oración",
+    "notif_body": "Es hora de {prayer} en {city} ({time}).",
+    "tray_bg": "Sirat sigue ejecutándose en segundo plano.",
+    "test_btn": "▶ Probar",
+    "test_off": "Notificaciones desactivadas. Actívelas para probar.",
+    "sounds": [
+      "🔔 Campana Clásica",
+      "🕌 Gong Profundo",
+      "✨ Campanilla Cristal",
+      "🎶 Melodía Serene"
+    ],
+    "dhikr_tap": "📿  Contar Dhikr  (+1)",
+    "dhikr_rst": "Reiniciar",
+    "dhikr_stat": "Meta: {cur} / {tgt}   •   Total: {tot}"
+  },
+  "calendar": [
+    [
+      "Lunes",
+      "Martes",
+      "Miércoles",
+      "Jueves",
+      "Viernes",
+      "Sábado",
+      "Domingo"
+    ],
+    [
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre",
+      "Diciembre"
+    ],
+    "HOJA DE CALENDARIO ISLÁMICO",
+    "📖 Versículo del Día",
+    "📜 Hadiz del Día",
+    "Día {d} del año",
+    "ltr"
+  ],
+  "days": [
+    [
+      "2026-12-10",
+      "Inicio de los Tres Meses Sagrados",
+      "<h3>Comienzo de Rayab</h3><p>Temporada de renovación espiritual: oración, lectura del Corán y ayuno voluntario.</p>"
+    ],
+    [
+      "2026-12-17",
+      "Noche de Raghaib",
+      "<h3>Laylat al-Raghaib</h3><p>Primera noche de viernes de Rayab: oración nocturna y caridad.</p>"
+    ],
+    [
+      "2027-01-05",
+      "Isra y Mi'raj",
+      "<h3>Noche de Isra y Mi'raj</h3><p>La noche en que se prescribieron las cinco oraciones diarias.</p>"
+    ],
+    [
+      "2027-01-24",
+      "Noche del Perdón (Bara'ah)",
+      "<h3>Mitad de Sha'ban</h3><p>Noche de súplica y ayuno al día siguiente.</p>"
+    ],
+    [
+      "2027-02-08",
+      "Inicio de Ramadán",
+      "<h3>Mes Bendito de Ramadán</h3><p>Mes de ayuno, oración de Tarawih y Zakat.</p>"
+    ],
+    [
+      "2027-03-05",
+      "Noche del Destino (Al-Qadr)",
+      "<h3>Laylat al-Qadr</h3><p>Mejor que mil meses.</p>"
+    ],
+    [
+      "2027-03-09",
+      "Eid al-Fitr (3 Días)",
+      "<h3>Eid al-Fitr</h3><p>Oración del Eid, Zakat al-Fitr y visitas familiares.</p>"
+    ],
+    [
+      "2027-05-15",
+      "Día de Arafah",
+      "<h3>Día de Arafah</h3><p>Ayuno de Arafah e inicio del Takbir al-Tashriq tras el Fajr.</p>"
+    ],
+    [
+      "2027-05-16",
+      "Eid al-Adha (4 Días)",
+      "<h3>Eid al-Adha</h3><p>Oración del Eid, sacrificio (Qurbani) y compartir con los necesitados.</p>"
+    ],
+    [
+      "2027-06-06",
+      "Año Nuevo Islámico (1 Muharram)",
+      "<h3>Año Nuevo Hégira 1449</h3><p>Conmemoración de la Hégira y ayuno en Muharram.</p>"
+    ],
+    [
+      "2027-06-15",
+      "Día de Ashura (10 Muharram)",
+      "<h3>Día de Ashura</h3><p>Ayuno los días 9-10 o 10-11 de Muharram y caridad.</p>"
+    ],
+    [
+      "2027-08-14",
+      "Mawlid al-Nabi",
+      "<h3>Mawlid al-Nabi</h3><p>Enviar bendiciones al Profeta ﷺ y estudiar su vida.</p>"
+    ]
+  ],
+  "dhikr": [
+    "+ Añadir",
+    "Transliteración:",
+    "Significado:",
+    "Etapa {s} ({r})",
+    "Añadir Dhikr",
+    "Nombre *:",
+    "Árabe:",
+    "Lectura:",
+    "Significado:",
+    "Meta:",
+    "Guardar",
+    "Cancelar",
+    [
+      "Tasbih tras la oración (33×3)",
+      "SubhanAllahi wa bihamdihi",
+      "Astaghfirullah al-Azim",
+      "Salawat sobre el Profeta ﷺ",
+      "Kalima Tayyibah",
+      "Hawqala",
+      "HasbunAllahu wa ni'mal Wakil",
+      "Al-Baqiyat as-Salihat",
+      "Súplica de Yunus (AS)"
+    ],
+    [
+      "Gloria a Allah.",
+      "Toda alabanza pertenece a Allah.",
+      "Allah es el Más Grande.",
+      "Gloria y alabanza a Allah.",
+      "Pido perdón a Allah, el Todopoderoso.",
+      "Oh Allah, bendice a nuestro Maestro Muhammad.",
+      "No hay más divinidad que Allah y Muhammad es Su Mensajero.",
+      "No hay poder ni fuerza sino en Allah.",
+      "Allah nos basta y es el mejor Protector.",
+      "Gloria a Allah, alabanza a Allah, no hay dios sino Allah y Allah es el Más Grande.",
+      "No hay más divinidad que Tú. ¡Gloria a Ti! Ciertamente he sido de los injustos."
+    ]
+  ],
+  "guide": [
+    [
+      "1. Posturas de Oración (Hombres)",
+      "<h3>Posturas para Hombres</h3><div style='margin:12px 0; text-align:center;'><img src='__MIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir:</b> Levantar las manos hasta los lóbulos de las orejas.</li><li><b>Qiyam:</b> Cruzar las manos debajo del ombligo.</li><li><b>Ruku:</b> Inclinarse con la espalda recta a 90 grados.</li><li><b>Sujood:</b> Mantener los codos levantados del suelo.</li><li><b>Sentado:</b> Sentarse sobre el pie izquierdo con el derecho erguido.</li></ol>"
+    ],
+    [
+      "2. Posturas de Oración (Mujeres)",
+      "<h3>Posturas para Mujeres</h3><div style='margin:12px 0; text-align:center;'><img src='__FIMG__' width='__IMGW__' style='border-radius:12px;'/></div><ol><li><b>Takbir:</b> Levantar las manos a la altura de los hombros.</li><li><b>Qiyam:</b> Colocar la mano derecha sobre la izquierda en el pecho.</li><li><b>Ruku:</b> Inclinarse ligeramente con las manos en las rodillas.</li><li><b>Sujood:</b> Mantener los brazos pegados al cuerpo.</li><li><b>Sentado:</b> Sentarse sobre la cadera izquierda con ambos pies a la derecha.</li></ol>"
+    ],
+    [
+      "3. Cómo hacer la Ablución (Wudu)",
+      "<h3>Pasos del Wudu</h3><ol><li>Hacer la intención y decir Bismillah.</li><li>Lavar manos, boca, nariz, rostro y brazos 3 veces.</li><li>Pasar manos húmedas por cabeza y orejas, y lavar los pies 3 veces.</li></ol>"
+    ],
+    [
+      "4. Rak'ahs Diarias",
+      "<h3>Resumen de Oraciones</h3><ul><li><b>Fajr:</b> 2 Sunnah + 2 Fard</li><li><b>Dhuhr:</b> 4 Sunnah + 4 Fard + 2 Sunnah</li><li><b>Asr:</b> 4 Sunnah + 4 Fard</li><li><b>Maghrib:</b> 3 Fard + 2 Sunnah</li><li><b>Isha:</b> 4 Sunnah + 4 Fard + 2 Sunnah + 3 Witr</li></ul>"
+    ],
+    [
+      "5. Oración del Viernes (Yumu'ah)",
+      "<h3>Oración de Yumu'ah</h3><p>En congregación el viernes: 4 Sunnah, escuchar la Jutbah, 2 Fard y 4 Sunnah.</p>"
+    ],
+    [
+      "6. Oraciones del Eid",
+      "<h3>Oración del Eid (2 Rak'ahs)</h3><p>Incluye 3 Takbires adicionales en cada Rak'ah.</p>"
+    ],
+    [
+      "7. Dhikr y Significados",
+      "<h3>Recuerdo Diario</h3><ul><li><b>SubhanAllah (33x):</b> Gloria a Allah.</li><li><b>Alhamdulillah (33x):</b> Alabanza a Allah.</li><li><b>Allahu Akbar (33x):</b> Allah es el Más Grande.</li></ul>"
+    ]
+  ]
+}
